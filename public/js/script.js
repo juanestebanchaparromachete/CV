@@ -246,4 +246,6 @@ jQuery(document).ready(function ($) {
         }
     );
 });
-
+// Juan Estaban Chaparro: tienes muy buenas practicas cuando usas JS  te preocupas por la forma en la que interactua el usuario
+// esto es verdaderamente importante por que finalmente el es quien  utilizara la aplicacion , pienso que esto se debe a que eres
+// alguien con experiencia.
